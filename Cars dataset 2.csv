@@ -1,0 +1,31 @@
+Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Acura,MDX,SUV,Asia,All,"$36,945 ","$33,337 ",3.5,6,265,17,23,4451,106,189
+Acura,RSX Type S 2dr,Sedan,Asia,Front,"$23,820 ","$21,761 ",2,4,200,24,31,2778,101,172
+Acura,TSX 4dr,Sedan,Asia,Front,"$26,990 ","$24,647 ",2.4,4,200,22,29,3230,105,183
+Acura,TL 4dr,Sedan,Asia,Front,"$33,195 ","$30,299 ",3.2,6,270,20,28,3575,108,186
+Acura,3.5 RL 4dr,Sedan,Asia,Front,"$43,755 ","$39,014 ",3.5,6,225,18,24,3880,115,197
+Audi,A4 3.0 4dr,Sedan,Europe,Front,"$31,840 ","$28,846 ",3,6,220,20,28,3462,104,179
+Audi,A4 3.0 Quattro 4dr manual,Sedan,Europe,All,"$33,430 ","$30,366 ",3,6,220,17,26,3583,104,179
+Audi,A4 3.0 Quattro 4dr auto,Sedan,Europe,All,"$34,480 ","$31,388 ",3,6,220,18,25,3627,104,179
+Audi,A6 3.0 4dr,Sedan,Europe,Front,"$36,640 ","$33,129 ",3,6,220,20,27,3561,109,192
+Audi,A6 3.0 Quattro 4dr,Sedan,Europe,All,"$39,640 ","$35,992 ",3,6,220,18,25,3880,109,192
+BMW,X3 3.0i,SUV,Europe,All,"$37,000 ","$33,873 ",3,6,225,16,23,4023,110,180
+BMW,X5 4.4i,SUV,Europe,All,"$52,195 ","$47,720 ",4.4,8,325,16,22,4824,111,184
+BMW,325i 4dr,Sedan,Europe,Rear,"$28,495 ","$26,155 ",2.5,6,184,20,29,3219,107,176
+BMW,325Ci 2dr,Sedan,Europe,Rear,"$30,795 ","$28,245 ",2.5,6,184,20,29,3197,107,177
+Buick,Rainier,SUV,USA,All,"$37,895 ","$34,357 ",4.2,6,275,15,21,4600,113,193
+Buick,Rendezvous CX,SUV,USA,Front,"$26,545 ","$24,085 ",3.4,6,185,19,26,4024,112,187
+Buick,Century Custom 4dr,Sedan,USA,Front,"$22,180 ","$20,351 ",3.1,6,175,20,30,3353,109,195
+Buick,LeSabre Custom 4dr,Sedan,USA,Front,"$26,470 ","$24,282 ",3.8,6,205,20,29,3567,112,200
+Buick,Regal LS 4dr,Sedan,USA,Front,"$24,895 ","$22,835 ",3.8,6,200,20,30,3461,109,196
+Buick,Regal GS 4dr,Sedan,USA,Front,"$28,345 ","$26,047 ",3.8,6,240,18,28,3536,109,196
+Cadillac,Deville 4dr,Sedan,USA,Front,"$45,445 ","$41,650 ",4.6,8,275,18,26,3984,115,207
+Cadillac,Deville DTS 4dr,Sedan,USA,Front,"$50,595 ","$46,362 ",4.6,8,300,18,26,4044,115,207
+Cadillac,Seville SLS 4dr,Sedan,USA,Front,"$47,955 ","$43,841 ",4.6,8,275,18,26,3992,112,201
+Cadillac,XLR convertible 2dr,Sports,USA,Rear,"$76,200 ","$70,546 ",4.6,8,320,17,25,3647,106,178
+Cadillac,Escalade EXT,Truck,USA,All,"$52,975 ","$48,541 ",6,8,345,13,17,5879,130,221
+Chevrolet,Suburban 1500 LT,SUV,USA,Front,"$42,735 ","$37,422 ",5.3,8,295,14,18,4947,130,219
+Chevrolet,Tahoe LT,SUV,USA,All,"$41,465 ","$36,287 ",5.3,8,295,14,18,5050,116,197
+Chevrolet,TrailBlazer LT,SUV,USA,Front,"$30,295 ","$27,479 ",4.2,6,275,16,21,4425,113,192
+Chevrolet,Tracker,SUV,USA,Front,"$20,255 ","$19,108 ",2.5,6,165,19,22,2866,98,163
+Chevrolet,Aveo 4dr,Sedan,USA,Front,"$11,690 ","$10,965 ",1.6,4,103,28,34,2370,98,167
